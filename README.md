@@ -17,9 +17,9 @@
 
 ## 🎯 Designed for Zed
 
-Welcome to the XY-Zed theme for [Zed](https://zed.dev), a gorgeous dark theme designed with sensible syntax colors to enhance your coding experience.
+Welcome to the XY-Zed theme for [Zed](https://zed.dev), a gorgeous theme with both dark and light modes designed with sensible syntax colors to enhance your coding experience.
 
-XY-Zed is a meticulously crafted dark theme for Zed, aimed at improving readability and reducing eye strain during long coding sessions. The theme features sensible syntax colors, making it easier to write and review code. Please note that this theme is still in development and may not be perfect. Feedback and contributions are always appreciated.
+XY-Zed is a meticulously crafted theme for Zed, aimed at improving readability and reducing eye strain during long coding sessions. The theme features sensible syntax colors across dark and light modes, making it easier to write and review code. Please note that this theme is still in development and may not be perfect. Feedback and contributions are always appreciated.
 
 > [!Note]
 > Elements that have not been identified are intentionally colored in bright red to make them more visible. If you come across any such elements, please assist by reporting them to the GitHub repository. Include a screenshot for clarity.
