@@ -61,7 +61,7 @@
         "editor.background": "#121212",
         "editor.gutter.background": "#121212",
         "editor.subheader.background": "#1b1b1b",
-        "editor.active_line.background": "#7de48610",
+        "editor.active_line.background": "#7de48622",
         "editor.highlighted_line.background": "#FFD09750",
         "editor.line_number": "#56565eff",
         "editor.active_line_number": "#7de486ff",
@@ -477,7 +477,7 @@
         "editor.background": "#fafbfc",
         "editor.gutter.background": "#fafbfc",
         "editor.subheader.background": "#f1f3f5",
-        "editor.active_line.background": "#0596690f",
+        "editor.active_line.background": "#05966928",
         "editor.highlighted_line.background": "#fef3c760",
         "editor.line_number": "#a0aab5",
         "editor.active_line_number": "#059669",
@@ -486,9 +486,9 @@
         "editor.active_wrap_guide": "#a0aab5",
         "editor.indent_guide": "#e1e4e8",
         "editor.indent_guide_active": "#05966950",
-        "editor.document_highlight.read_background": "#05966918",
-        "editor.document_highlight.write_background": "#05966930",
-        "editor.document_highlight.bracket_background": "#05966920",
+        "editor.document_highlight.read_background": "#05966930",
+        "editor.document_highlight.write_background": "#05966950",
+        "editor.document_highlight.bracket_background": "#05966930",
         "terminal.background": "#fafbfc",
         "terminal.foreground": "#24292f",
         "terminal.bright_foreground": "#090a0c",
@@ -564,42 +564,42 @@
           {
             "cursor": "#059669ff",
             "background": "#059669ff",
-            "selection": "#05966925"
+            "selection": "#0596693d"
           },
           {
             "cursor": "#cf222eff",
             "background": "#cf222eff",
-            "selection": "#cf222e25"
+            "selection": "#cf222e3d"
           },
           {
             "cursor": "#9a6700ff",
             "background": "#9a6700ff",
-            "selection": "#9a670025"
+            "selection": "#9a67003d"
           },
           {
             "cursor": "#8250dfff",
             "background": "#8250dfff",
-            "selection": "#8250df25"
+            "selection": "#8250df3d"
           },
           {
             "cursor": "#007a8cff",
             "background": "#007a8cff",
-            "selection": "#007a8c25"
+            "selection": "#007a8c3d"
           },
           {
             "cursor": "#e5534bff",
             "background": "#e5534bff",
-            "selection": "#e5534b25"
+            "selection": "#e5534b3d"
           },
           {
             "cursor": "#bf8700ff",
             "background": "#bf8700ff",
-            "selection": "#bf870025"
+            "selection": "#bf87003d"
           },
           {
             "cursor": "#a475f9ff",
             "background": "#a475f9ff",
-            "selection": "#a475f925"
+            "selection": "#a475f93d"
           }
         ],
         "accents": [
